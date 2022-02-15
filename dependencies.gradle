@@ -1,0 +1,4 @@
+dependencies {
+    compile 'com.github.GTNewHorizons:Chisel:2.10.8-GTNH:dev'
+    compile deobf('https://media.forgecdn.net/files/2223/720/Ztones-1.7.10-2.2.1.jar')
+}
